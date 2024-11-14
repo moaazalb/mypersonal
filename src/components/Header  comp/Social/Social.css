@@ -1,0 +1,16 @@
+.header-social-links {
+    padding-right: 15px;
+  }
+  
+  .header-social-links a {
+    color: #6f6f6f;
+    padding-left: 6px;
+    display: inline-block;
+    line-height: 0px;
+    transition: 0.3s;
+    font-size: 16px;
+  }
+  
+  .header-social-links a:hover {
+    color: #34b7a7;
+  }

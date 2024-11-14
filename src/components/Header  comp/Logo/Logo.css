@@ -1,0 +1,23 @@
+ .logo {
+    font-size: 32px;
+    margin: 0;
+    padding: 0;
+    line-height: 1;
+    font-weight: 400;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+  
+ .logo a {
+    color: #222222;
+  }
+  
+ .logo img {
+    max-height: 40px;
+  }
+  
+  @media (max-width: 992px) {
+ .logo {
+      font-size: 28px;
+    }
+  }
